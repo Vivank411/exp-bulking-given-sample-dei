@@ -18,7 +18,7 @@ The extent of bulking can vary depending on factors like the grading of the sand
 
 To account for bulking in construction practices, engineers and concrete mix designers often adjust the proportions of fine aggregate in the mix based on its moisture content. This adjustment ensures that the correct volume of dry sand is used in the concrete mixture, preventing potential issues such as reduced concrete strength and workability. The measured volume of damp sand must be increased by the percentage bulking value to obtain the correct quantity of sand as per the nominal mix design (based on dry sand).
 
-### Formula for Bulking
+### Formulas
 
 The formula for calculating the bulking of sand is:
 
