@@ -1,1 +1,1 @@
-#### To Determine the Bulking of a Given Sample of Fine Aggregate
+#### To determine bulking of a given sample of fine aggregate
